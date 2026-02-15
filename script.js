@@ -35,7 +35,7 @@ noBtn.addEventListener("mouseenter", () => {
 // YES button click
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeee!";
-    catImg.src = "cat_dance.gif";
+    catImg.src = "assets/cat_dance_1771168478603.gif";
     letterWindow.classList.add("final");
     finalText.style.display = "block";
     document.getElementById("letter-buttons").style.display = "none";
